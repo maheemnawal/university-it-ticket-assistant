@@ -1,0 +1,11 @@
+expected_category,password_reset,wifi_network,email_issue,software_install,lms_access,printing,hardware_fault,vpn_remote,classroom_av,security_incident,unknown
+password_reset,0,0,0,0,0,0,0,0,0,0,2
+wifi_network,0,0,0,0,0,0,0,0,0,0,2
+email_issue,0,0,0,0,0,0,0,0,0,0,2
+software_install,0,0,0,0,0,0,0,0,0,0,2
+lms_access,0,0,0,0,0,0,0,0,0,0,2
+printing,0,0,0,0,0,0,0,0,0,0,2
+hardware_fault,0,0,0,0,0,0,0,0,0,0,2
+vpn_remote,0,0,0,0,0,0,0,0,0,0,2
+classroom_av,0,0,0,0,0,0,0,0,0,0,2
+security_incident,0,0,0,0,0,0,0,0,0,0,2

@@ -1,0 +1,11 @@
+category,meaning,example
+password_reset,"Forgotten, expired or locked account passwords",I forgot my portal password
+wifi_network,Campus WiFi or wired network problems,WiFi keeps dropping in the hostel
+email_issue,"University email sending, receiving or mailbox problems",I cannot receive mail in Outlook
+software_install,"Requests to install, license or activate software",Please install MATLAB on my lab PC
+lms_access,"Moodle/LMS login, course visibility or submission problems",My course is missing on Moodle
+printing,"Printer, scanner and print queue problems",The printer shows a paper jam
+hardware_fault,"Physical faults in computers, laptops and peripherals",My laptop battery drains quickly
+vpn_remote,VPN and remote access to campus resources,VPN fails when I connect from home
+classroom_av,"Projectors, microphones and audio-visual equipment in rooms",Projector shows no signal
+security_incident,"Phishing, hacked accounts, malware, suspicious activity",I clicked a suspicious link

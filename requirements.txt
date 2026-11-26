@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pydantic>=2
+pandas
+scikit-learn
+streamlit
+requests
+httpx
+pytest
+google-genai
+python-dotenv
+groq

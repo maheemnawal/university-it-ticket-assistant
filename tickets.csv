@@ -1,0 +1,101 @@
+id,ticket,expected_category,split
+T001,I forgot my student portal password and need a new one.,password_reset,development
+T002,My password expired this morning and the portal will not let me set a new one.,password_reset,development
+T003,"Please reset my password, I changed my phone and lost the OTP codes.",password_reset,development
+T004,The reset link for my university password says it has expired.,password_reset,development
+T005,I am locked out of my portal account after typing the wrong password several times.,password_reset,development
+T006,Need to change my password because I shared it with a classmate by mistake.,password_reset,development
+T007,Password reset page keeps showing an error for my registration number.,password_reset,development
+T008,I cannot remember the password for my student ID card account.,password_reset,development
+T009,I forgot my portal password and the reset link is not arriving.,password_reset,eval
+T010,"My account got locked out after three wrong attempts, please unlock it.",password_reset,eval
+T011,WiFi in the library is very slow and pages keep timing out.,wifi_network,development
+T012,I cannot connect to the campus network from my hostel room.,wifi_network,development
+T013,The Ethernet port in lab 4 has no internet connection.,wifi_network,development
+T014,Wi-Fi signal is very weak in the CS department corridor.,wifi_network,development
+T015,My phone connects to the university WiFi but there is no internet.,wifi_network,development
+T016,Network keeps disconnecting every few minutes in the cafeteria.,wifi_network,development
+T017,The campus Wi-Fi asks for credentials again and again on my laptop.,wifi_network,development
+T018,Internet is down for the whole admin block since morning.,wifi_network,development
+T019,Internet keeps dropping in the hostel block B every evening.,wifi_network,eval
+T020,"Cannot connect to campus WiFi, it asks for a certificate on my phone.",wifi_network,eval
+T021,I am not receiving any emails in my university mailbox.,email_issue,development
+T022,Outlook keeps crashing when I open my inbox.,email_issue,development
+T023,Mailbox storage is full and I cannot send new emails.,email_issue,development
+T024,Emails I send to faculty land in their spam folder.,email_issue,development
+T025,I need an email alias added for the society account.,email_issue,development
+T026,Calendar invites from my professor do not show up in my inbox.,email_issue,development
+T027,My email signature disappeared after the latest Outlook update.,email_issue,development
+T028,Attachments larger than 5 MB cannot be sent from my university email.,email_issue,development
+T029,My Outlook inbox is full and I cannot receive new mail.,email_issue,eval
+T030,Emails to my supervisor bounce back with a delivery failure.,email_issue,eval
+T031,Please install Visual Studio Code on the computers in lab 2.,software_install,development
+T032,I need the MATLAB license activated on my personal laptop.,software_install,development
+T033,Installation of AutoCAD fails at 60 percent with an error code.,software_install,development
+T034,Can IT install Python 3.12 and Jupyter on the lab machines?,software_install,development
+T035,My Microsoft Office activation has expired and shows a warning.,software_install,development
+T036,SPSS software is missing from the research lab computer.,software_install,development
+T037,Need permission to install Docker because it is blocked by admin rights.,software_install,development
+T038,The antivirus software installed last week keeps slowing down my laptop.,software_install,development
+T039,Need MATLAB installed on my lab PC for the signal processing course.,software_install,eval
+T040,My Adobe license expired and the software asks me to activate it again.,software_install,eval
+T041,I cannot log in to Moodle and see only a blank page.,lms_access,development
+T042,My enrolled course is missing from my LMS dashboard.,lms_access,development
+T043,The assignment upload button on Moodle is disabled before the deadline.,lms_access,development
+T044,I was not added to the Operating Systems course on the LMS.,lms_access,development
+T045,Moodle shows an error when I try to open the lecture recordings.,lms_access,development
+T046,Grades for my last quiz are not visible on the LMS.,lms_access,development
+T047,My teacher cannot enroll me because the course page says access denied.,lms_access,development
+T048,Submitted assignment on Moodle shows as not submitted.,lms_access,development
+T049,I cannot see my Data Structures course on Moodle this semester.,lms_access,eval
+T050,Quiz page on LMS shows a blank screen and I cannot submit.,lms_access,eval
+T051,The printer in the library is out of toner.,printing,development
+T052,Print jobs from the lab computer never come out.,printing,development
+T053,Department printer shows a paper jam error again.,printing,development
+T054,I need access to the scanner to scan my thesis pages.,printing,development
+T055,Printed pages come out with black lines across them.,printing,development
+T056,The printer is not listed on my computer so I cannot print.,printing,development
+T057,Please add print credit to my student account.,printing,development
+T058,The printer on the second floor is making a grinding noise.,printing,development
+T059,The library printer shows paper jam but there is no paper stuck.,printing,eval
+T060,"Cannot print from my laptop to the department printer, job stays in queue.",printing,eval
+T061,My laptop will not turn on even when plugged in.,hardware_fault,development
+T062,The keyboard in lab 3 has several keys that do not work.,hardware_fault,development
+T063,Desktop monitor shows vertical lines and then goes black.,hardware_fault,development
+T064,The mouse on my office PC is not detected.,hardware_fault,development
+T065,Charger of my university laptop stopped working today.,hardware_fault,development
+T066,The desktop in the exam hall has a broken screen and restarts randomly.,hardware_fault,development
+T067,The laptop fan is extremely loud and the battery swells.,hardware_fault,development
+T068,USB ports on my lab desktop are not working.,hardware_fault,development
+T069,My laptop battery drains within twenty minutes and the charger gets hot.,hardware_fault,eval
+T070,Lab computer screen flickers and the keyboard keys are unresponsive.,hardware_fault,eval
+T071,VPN disconnects every ten minutes while I work from home.,vpn_remote,development
+T072,The VPN client shows authentication failed for my account.,vpn_remote,development
+T073,I need remote desktop access to the lab server from home.,vpn_remote,development
+T074,Cannot reach the research server when I am off campus.,vpn_remote,development
+T075,VPN connects but I cannot open the digital library.,vpn_remote,development
+T076,Please enable VPN access for my new faculty account.,vpn_remote,development
+T077,Remote desktop connection to my office PC times out from home.,vpn_remote,development
+T078,VPN is very slow when I download research papers.,vpn_remote,development
+T079,VPN client fails with error 800 when I connect from home.,vpn_remote,eval
+T080,I need remote access to my lab machine while off campus.,vpn_remote,eval
+T081,The projector in room B-5 does not turn on.,classroom_av,development
+T082,No sound from the speakers in the main auditorium.,classroom_av,development
+T083,HDMI cable in classroom 12 is broken and my laptop cannot display.,classroom_av,development
+T084,The wireless microphone in the seminar hall is not working.,classroom_av,development
+T085,Smart board in room A-3 does not respond to touch.,classroom_av,development
+T086,Projector image is blurry in the computer lab classroom.,classroom_av,development
+T087,The classroom speaker crackles whenever the lecturer speaks.,classroom_av,development
+T088,Need an HDMI adapter for the projector in the conference room.,classroom_av,development
+T089,Projector in room C-12 shows no signal from the HDMI cable.,classroom_av,eval
+T090,The microphone in the seminar hall makes a loud buzzing noise.,classroom_av,eval
+T091,I received a phishing message pretending to be from the registrar.,security_incident,development
+T092,My friend's account sent suspicious links to the whole class.,security_incident,development
+T093,Antivirus found a virus on the lab computer.,security_incident,development
+T094,Someone tried to log in to my account from another country.,security_incident,development
+T095,I think malware is running on my laptop and my files are encrypted.,security_incident,development
+T096,A scam website is using the university name to collect fees.,security_incident,development
+T097,I clicked a suspicious link and entered my credentials.,security_incident,development
+T098,Unknown device is connected to my student account.,security_incident,development
+T099,"I got a suspicious email asking for my login details, looks like phishing.",security_incident,eval
+T100,My account was hacked and messages were sent to my friends.,security_incident,eval
