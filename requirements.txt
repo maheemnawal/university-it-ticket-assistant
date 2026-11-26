@@ -7,6 +7,5 @@ streamlit
 requests
 httpx
 pytest
-google-genai
 python-dotenv
 groq
