@@ -55,7 +55,7 @@ streamlit run app.py
 - Frontend on Streamlit Community Cloud, with `API_URL` set to the Render link in Secrets.
 - Note: on the free Render plan the backend sleeps when idle, so the first request can take up to a minute.
 
-**App link:** ====================
+**App link:** https://university-it-tickets.streamlit.app/
 
 ## Categories
 
