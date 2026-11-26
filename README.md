@@ -1,3 +1,8 @@
+---
+title: University IT Ticket Assistant
+sdk: docker
+app_port: 7860
+---
 # University IT Help Desk Ticket Assistant
 
 This app reads a university IT help desk ticket, picks one of 10 categories, and writes a one-sentence summary. The result is only a suggestion for a human to review. The app never performs real actions such as password resets or account changes. All 100 tickets are fictional.
