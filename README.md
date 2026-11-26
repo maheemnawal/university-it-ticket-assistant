@@ -46,7 +46,7 @@ uvicorn api:app --reload
 streamlit run app.py
 ```
 
-- Backend runs at http://127.0.0.1:8000 (check `/health`).
+- Backend runs at https://university-it-ticket-assistant-two.vercel.app/health (check `/health`).
 - Frontend is Streamlit. If the backend is on another address, set `API_URL`.
 
 ## Deployment
